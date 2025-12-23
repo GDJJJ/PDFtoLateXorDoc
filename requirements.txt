@@ -1,0 +1,8 @@
+flask>=2.0.0
+werkzeug>=2.0.0
+paddleocr>=2.7.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+requests>=2.25.0
+python-docx>=0.8.11
+

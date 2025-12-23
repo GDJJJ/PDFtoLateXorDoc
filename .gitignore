@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Flask
+instance/
+.webassets-cache
+
+# 临时文件
+temp_uploads/
+*.tmp
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 输出文件
+output/
+*.tex.content
+
+# 测试和缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 模型和数据（如果很大）
+# model/
+# dataset_splited/
+# MyDataset/
+
